@@ -1,0 +1,7 @@
+/node_modules
+/attic
+/data
+/static/postleitzahlen.topojson.br
+*/.DS_Store
+/bun.lockb
+/package-lock.json
