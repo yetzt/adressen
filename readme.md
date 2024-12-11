@@ -23,6 +23,6 @@ This is free and unencumbered software released into the public domain.
 
 ## Data Licenses
 
-* [Postcode Data](static/polstleitzahlen.topojson.br): [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), Licensed under the [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/), via [@yetzt/postleitzahlen](https://github.com/yetzt/postleitzahlen)
+* Postcode Data: [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), Licensed under the [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/), via [@yetzt/postleitzahlen](https://github.com/yetzt/postleitzahlen)
 * [Buffered Germany Geojson](static/de.geojson): Public Domain
 * Vector Tiles "basemap.de Web Vektor": © GeoBasis-DE / [BKG](https://www.bkg.bund.de/) (2024) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([License Agreement](https://sgx.geodatenzentrum.de/web_public/gdz/dokumentation/deu/basemap.de_web_vektor.pdf#%5B%7B%22num%22%3A32%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C68%2C738%2C0%5D), [Documentation](https://basemap.de/data/produkte/web_vektor/meta/bm_web_vektor_datenmodell.html#Adresse))
